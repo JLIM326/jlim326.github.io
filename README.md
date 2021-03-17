@@ -1,6 +1,5 @@
-# jlim326.github.io 
-## typing something
+# This is a file for me to practice on using Github.
+## My Github for this file is jlim326.github.io
+## This is done by writing using markdown language.
 
-Hello this is a readme md
-
-Changing from the github
+This is just for familiarisation purposes.
